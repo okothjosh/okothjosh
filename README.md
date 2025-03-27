@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**okothjosh/okothjosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Hi there 👋 I'm JoshuaJovern
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +7,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+## Projects  
+- [Project 1: Name](GitHub Repo Link) - Short Description  
+- [Project 2: Name](GitHub Repo Link) - Short Description
